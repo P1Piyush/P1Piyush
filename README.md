@@ -16,12 +16,19 @@
   <a href="https://linkedin.com/in/piyush-oli-40507a250">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Repositories-50+-success?style=for-the-badge&logo=github&logoColor=white" alt="50+ Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-100+-success?style=for-the-badge&logo=github&logoColor=white" alt="100+ Repositories" />
 </p>
 
 ---
 
 ### 🚀 Ultra-Premium Portfolio Highlights
+
+#### 🔬 Deep Tech & Systems Engineering
+*   [**llvm-custom-compiler**](https://github.com/P1Piyush/llvm-custom-compiler): A from-scratch compiler frontend leveraging the LLVM infrastructure in C++.
+*   [**neural-network-from-scratch**](https://github.com/P1Piyush/neural-network-from-scratch): A dependency-free implementation of deep neural networks in pure C.
+*   [**paxos-consensus-go**](https://github.com/P1Piyush/paxos-consensus-go): A robust, fault-tolerant implementation of the Paxos distributed consensus protocol in Go.
+*   [**linux-kernel-module**](https://github.com/P1Piyush/linux-kernel-module): A custom char driver kernel module in C hooking directly into Linux kernel space.
+*   [**zk-snarks-protocol**](https://github.com/P1Piyush/zk-snarks-protocol): Zero-knowledge proof implementation (zk-SNARKs) written in Rust.
 
 #### 🧠 AI & Model Context Protocol (MCP)
 *   [**mcp-postgres-explorer**](https://github.com/P1Piyush/mcp-postgres-explorer): An MCP server empowering LLMs to safely query PostgreSQL databases.
