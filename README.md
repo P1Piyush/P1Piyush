@@ -23,22 +23,25 @@
 
 ### 🚀 Ultra-Premium Portfolio Highlights
 
+#### 💎 Core Production-Ready Implementations
+*   [**XAUUSD Trading Bots**](https://github.com/P1Piyush/XAUUSD-Trading-Bots): **(Phase 2)** Institutional-grade Python AI Engine (Random Forest) + MT5 Expert Advisor.
+*   [**zk-snarks-protocol**](https://github.com/P1Piyush/zk-snarks-protocol): **(Phase 2)** Cryptographic Rust implementation of zero-knowledge proofs.
+*   [**neural-network-from-scratch**](https://github.com/P1Piyush/neural-network-from-scratch): **(Phase 1)** Mathematical C implementation of multi-layer perceptrons with backpropagation.
+*   [**mcp-sys-monitor**](https://github.com/P1Piyush/mcp-sys-monitor): **(Phase 1)** Real-time hardware observability server using Model Context Protocol.
+*   [**react-glassmorphism-kit**](https://github.com/P1Piyush/react-glassmorphism-kit): **(Phase 1)** Zero-dependency UI library for modern glassmorphism aesthetics.
+
 #### 🔬 Deep Tech & Systems Engineering
 *   [**llvm-custom-compiler**](https://github.com/P1Piyush/llvm-custom-compiler): A from-scratch compiler frontend leveraging the LLVM infrastructure in C++.
-*   [**neural-network-from-scratch**](https://github.com/P1Piyush/neural-network-from-scratch): A dependency-free implementation of deep neural networks in pure C.
 *   [**paxos-consensus-go**](https://github.com/P1Piyush/paxos-consensus-go): A robust, fault-tolerant implementation of the Paxos distributed consensus protocol in Go.
 *   [**linux-kernel-module**](https://github.com/P1Piyush/linux-kernel-module): A custom char driver kernel module in C hooking directly into Linux kernel space.
-*   [**zk-snarks-protocol**](https://github.com/P1Piyush/zk-snarks-protocol): Zero-knowledge proof implementation (zk-SNARKs) written in Rust.
 
 #### 🧠 AI & Model Context Protocol (MCP)
 *   [**mcp-postgres-explorer**](https://github.com/P1Piyush/mcp-postgres-explorer): An MCP server empowering LLMs to safely query PostgreSQL databases.
 *   [**mcp-github-search**](https://github.com/P1Piyush/mcp-github-search): Semantic GitHub code search directly via Model Context Protocol.
-*   [**mcp-sys-monitor**](https://github.com/P1Piyush/mcp-sys-monitor): An MCP server that grants LLMs the ability to read and analyze live hardware metrics.
 *   [**prompt-optimizer-cli**](https://github.com/P1Piyush/prompt-optimizer-cli): An advanced CLI tool utilizing meta-prompting to refine LLM instructions.
 *   [**auto-refactor-agent**](https://github.com/P1Piyush/auto-refactor-agent): Autonomous agent workflow for massive codebase refactoring.
 
 #### 📈 Quantitative Trading & Data Engineering
-*   [**XAUUSD Trading Bots**](https://github.com/P1Piyush/XAUUSD-Trading-Bots): Institutional-grade automated gold trading systems (Python & MQL5).
 *   [**crypto-sentiment-scanner**](https://github.com/P1Piyush/crypto-sentiment-scanner): Real-time NLP sentiment analysis across social media for crypto assets.
 *   [**options-greeks-calculator**](https://github.com/P1Piyush/options-greeks-calculator): High-speed Black-Scholes implementations for options pricing.
 *   [**backtest-visualizer**](https://github.com/P1Piyush/backtest-visualizer): A beautiful React-based dashboard for rendering algorithmic trading results.
@@ -50,7 +53,6 @@
 *   [**secret-sweeper**](https://github.com/P1Piyush/secret-sweeper): Pre-commit hook and scanner to prevent leaked credentials in source code.
 
 #### 🎨 Full-Stack & UI Frameworks
-*   [**react-glassmorphism-kit**](https://github.com/P1Piyush/react-glassmorphism-kit): A highly optimized, zero-dependency collection of Glassmorphic components.
 *   [**tailwind-gradient-generator**](https://github.com/P1Piyush/tailwind-gradient-generator): CLI for generating ultra-complex, multi-stop Tailwind CSS gradients.
 *   [**nextjs-seo-wrapper**](https://github.com/P1Piyush/nextjs-seo-wrapper): Drop-in Next.js 14+ component for perfect Open Graph & Twitter Card metadata.
 
